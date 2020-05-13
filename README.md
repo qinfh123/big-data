@@ -1,4 +1,4 @@
-# big data 大作业
+# big data 大作业 代码初稿
   cookies用以知乎模拟登入储存cookies（还是没有搞清楚知乎汉字验证码怎么破，所以还是扫码）
   
   zhihu.py爬虫主题部分
